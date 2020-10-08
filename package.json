@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YA-androidapp/Docker-Electron.git"
+    "url": "git+https://github.com/YA-androidapp/Electron-Cleanness.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/YA-androidapp/Docker-Electron/issues"
+    "url": "https://github.com/YA-androidapp/Electron-Cleanness/issues"
   },
-  "homepage": "https://github.com/YA-androidapp/Docker-Electron#readme"
+  "homepage": "https://github.com/YA-androidapp/Electron-Cleanness#readme"
 }
